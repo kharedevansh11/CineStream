@@ -1,4 +1,4 @@
-**This project is a Netflix clone built using React and Redux for state management, and Firebase for authentication. It replicates the core functionality of Netflix, allowing users to sign up, sign in, browse a collection of movies and TV shows, and play trailers for selected content. This README file provides an overview of the project's features, setup instructions, and how to get started.**
+**This project is CineStream built using React and Redux for state management, and Firebase for authentication. It replicates the core functionality of Netflix, allowing users to sign up, sign in, browse a collection of movies and TV shows, and play trailers for selected content. This README file provides an overview of the project's features, setup instructions, and how to get started.**
 
 ## Table of Contents
 
